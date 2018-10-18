@@ -1,0 +1,13 @@
+com\github\madamusinski\Calculator.class
+com\github\madamusinski\Number$NumberIterator.class
+com\github\madamusinski\OperationAdd.class
+com\github\madamusinski\App.class
+com\github\madamusinski\Number$1.class
+com\github\madamusinski\Container.class
+com\github\madamusinski\StandardCalculator.class
+com\github\madamusinski\Number.class
+com\github\madamusinski\OperationMultiply.class
+com\github\madamusinski\Operation.class
+com\github\madamusinski\OperationSubstract.class
+com\github\madamusinski\OperationDivision.class
+com\github\madamusinski\Iterator.class
